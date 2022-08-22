@@ -29,6 +29,13 @@ Employee time log with basic operations and data management
     - Sort by Oldest or Newest First
 
 Most of the functions are equipped with necessary validations.
+
+### Note
+
+- Except for the ADM10001, the names of the other employees are fictional.
+- All data (date and time) in the Time Log are modified to efficiently display the in and out of the employees.
+- The assuming schedule of the employees is 9:00 am to 6:00 pm.
+- Last data of in and out is to show the real-time capture of date and time.
     
 <br>
 
@@ -80,5 +87,3 @@ Employee ID: `ADM10001` <br>
 Password: `Habac3rXgR`
 
 For other accounts, please refer to the screenshot or database.
-
-Note: Except for the ADM10001, the names of the other employees are fictional.
